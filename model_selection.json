@@ -1,0 +1,7 @@
+{
+  "knowledge": "groq/openai/gpt-oss-20b",
+  "planner": "groq/openai/gpt-oss-20b",
+  "developer": "groq/openai/gpt-oss-20b",
+  "reviewer": "groq/openai/gpt-oss-20b",
+  "model_selector": "deepseek/deepseek-v4-flash"
+}
